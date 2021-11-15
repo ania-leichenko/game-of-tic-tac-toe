@@ -10,11 +10,6 @@ function Page1() {
   return (
     <div className="game" >
       <h1>Tic tac toe</h1>
-      <div className="game_for_one">
-        <Link  to="/" className="game_for">
-          Игра на одного
-        </Link>
-      </div>
       <div>
         <Link  to="/page2" className="game_for">
           Игра на двоих
