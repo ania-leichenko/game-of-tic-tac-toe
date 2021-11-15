@@ -1,7 +1,8 @@
+//GameForOnePlayer
 import React, { useState } from "react";
 import "./Game.css";
 import Board from "./Board";
-import { calculateWinner } from "../helper";
+import { calculateWinner } from "../../helper";
 
 export default function Game() {
   const [board, setBoard] = useState(Array(9).fill(null));
