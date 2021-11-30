@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/game-of-tic-tac-toe/static/css/main.9b86f687.chunk.css",
-    "main.js": "/game-of-tic-tac-toe/static/js/main.4e10c18f.chunk.js",
-    "main.js.map": "/game-of-tic-tac-toe/static/js/main.4e10c18f.chunk.js.map",
+    "main.js": "/game-of-tic-tac-toe/static/js/main.39576e47.chunk.js",
+    "main.js.map": "/game-of-tic-tac-toe/static/js/main.39576e47.chunk.js.map",
     "runtime-main.js": "/game-of-tic-tac-toe/static/js/runtime-main.35781b8a.js",
     "runtime-main.js.map": "/game-of-tic-tac-toe/static/js/runtime-main.35781b8a.js.map",
     "static/js/2.f1e0776a.chunk.js": "/game-of-tic-tac-toe/static/js/2.f1e0776a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.35781b8a.js",
     "static/js/2.f1e0776a.chunk.js",
     "static/css/main.9b86f687.chunk.css",
-    "static/js/main.4e10c18f.chunk.js"
+    "static/js/main.39576e47.chunk.js"
   ]
 }
