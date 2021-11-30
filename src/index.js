@@ -19,7 +19,7 @@ const App = () => {
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/game-of-tic-tac-toe">
       <App />  
     </Router>
   </React.StrictMode>,
