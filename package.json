@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/game-of-tic-tac-toe",
+  "homepage": "https://ania-leichenko.github.io/game-of-tic-tac-toe/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
